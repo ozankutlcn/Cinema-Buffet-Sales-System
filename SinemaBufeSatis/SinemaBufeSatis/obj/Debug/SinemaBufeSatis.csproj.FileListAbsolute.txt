@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\SinemaBufeSatis\SinemaBufeSatis\bin\Debug\SinemaBufeSatis.exe.config
+C:\Users\LENOVO\source\repos\SinemaBufeSatis\SinemaBufeSatis\bin\Debug\SinemaBufeSatis.exe
+C:\Users\LENOVO\source\repos\SinemaBufeSatis\SinemaBufeSatis\bin\Debug\SinemaBufeSatis.pdb
+C:\Users\LENOVO\source\repos\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\SinemaBufeSatis.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\SinemaBufeSatis.Form1.resources
+C:\Users\LENOVO\source\repos\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\SinemaBufeSatis.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\SinemaBufeSatis.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\SinemaBufeSatis.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\SinemaBufeSatis.exe
+C:\Users\LENOVO\source\repos\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\SinemaBufeSatis.pdb
