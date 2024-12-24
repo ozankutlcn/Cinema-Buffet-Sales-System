@@ -1,3 +1,3 @@
 Basic Cinema Buffet Sales System On Windows Form Application
 
-![image](https://github.com/user-attachments/assets/f1b1adee-e748-4053-b76a-ee379d3e2c7a)
+![image](https://github.com/user-attachments/assets/78b66d93-a34f-4919-9279-4ce1743c448d)
